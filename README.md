@@ -1,6 +1,4 @@
-### Demo-123
-Demo 123
-### Parameter Optimization
+# Assingment-Multi-Threading
 
-- ### **<a href="https://docs.google.com/presentation/d/e/2PACX-1vSOeguXJS_AfKpHdxS1aU91XQ6fN7ubknc80qwXzB1_XghMbnyuQ6Ftecd9vGKrow/pub?start=false&loop=false&delayms=60000"> Click Here</a> for ppt.**
-- ### Go the last slide for the assignment
+<img src="https://github.com/psrana/Assingment-Multi-Threading/assets/7460892/69f331af-b987-48f3-967f-92359243bfbd" width="60%" height="60%">
+![image](https://github.com/AmanWhan/Demo-123/assets/172236551/10187006-5ee4-4b25-a8fd-7c2dfc113f92)
